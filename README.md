@@ -21,5 +21,7 @@ Refactoring the code resulted in the execution time for the script for 2017 from
 Refactoring the code resulted in the execution time for the script for 2018 from 0.1132813 to 0.1289063 as shown in ![VBA_Challenge_2018.png](/resources/VBA_Challenge_2018.png)
 
 ### Refactoring Results
+Refactoring can help make code run more efficiently, be more scalable and be easier to maintain without changing functionality. The downside of refactoring is that it can introduce bugs to existing code that is working.
+
 So for both 2017 and 2018 the execution time increased. This may be due to using too many for loops or too many arrays. Even though the code ran slower the refactoring was still worth it because the code is more flexible and easier to maintain.
 
