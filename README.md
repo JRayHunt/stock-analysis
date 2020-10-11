@@ -18,7 +18,7 @@ The loops were the most difficult part of this project. Trying to get the ticker
 ### Executin Results
 Refactoring the code resulted in the execution time for the script for 2017 from 0.1757813 to 0.2109375. As shown in ![VBA_Challenge_2017.png](/resources/VBA_Challenge_2017.png)
 
-Refactoring the code resulted in the execution time for the script for 2018 from 0.1132813 to 0.1289063 as shown in ![VBA_Challenge_2018.PNG](/resources/VBA_Challenge_2018.png)
+Refactoring the code resulted in the execution time for the script for 2018 from 0.1132813 to 0.1289063 as shown in ![VBA_Challenge_2018.PNG](/resources/VBA_Challenge_2018.PNG)
 
 ### Refactoring Results
 Refactoring can help make code run more efficiently, be more scalable and be easier to maintain without changing functionality. The downside of refactoring is that it can introduce bugs to existing code that is working.
